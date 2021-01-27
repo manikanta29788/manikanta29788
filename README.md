@@ -1,4 +1,4 @@
-<h3 align="center">Hey, this is Manikanta, a web coder 👋</h3><img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/icon-1.png" alt="icon" width="50" wheight="50"/>
+<h3 align="center">Hey, this is Manikanta, a web coder <img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/icon-1.png" alt="icon" width="35" wheight="35"/></h3>
 
 <!--
 **manikanta29788/manikanta29788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
