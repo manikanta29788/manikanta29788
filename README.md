@@ -1,5 +1,6 @@
 ### <h3 align="center">Hey, this is Manikanta, a Web Coder</h3>
 <div align="center"><img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/icon-2.png" alt="icon" width="100" wheight="100"/></div>
+Currently working as a Full Stack Engineer at Candelalabs
 
 <!--
 **manikanta29788/manikanta29788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
