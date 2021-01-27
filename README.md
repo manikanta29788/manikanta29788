@@ -1,4 +1,4 @@
-<h3 align="center">Hey, this is Manikanta, a web coder</h3>
+<h3 align="center">Hey, this is Manikanta, a web <span style="color:blue;">coder<span></h3>
 <div align="center"><img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/icon-2.png" alt="icon" width="100" wheight="100"/></div>
 
 <!--
