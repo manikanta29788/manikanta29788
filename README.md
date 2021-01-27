@@ -1,4 +1,4 @@
-### Hey, this is Manikanta, a web coder 👋
+<h1 align="center">Hey, this is Manikanta, a web coder 👋</h1>
 
 <!--
 **manikanta29788/manikanta29788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
