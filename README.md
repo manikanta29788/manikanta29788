@@ -4,7 +4,6 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-v-960753107/)](https://www.linkedin.com/in/manikanta-k-6b0145120/)
-
 [![Linkedin Badge](https://img.shields.io/badge/-GMAIL-blue?style=for-the-badge&logo=Gmail&color=red&logoColor=white&link=mailto:harishv6665@gmail.com)](mailto:manikanta29788@gmail.com)
 
 </div>
