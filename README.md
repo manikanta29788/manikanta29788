@@ -8,7 +8,7 @@
 
 </div>
 
-🔭 I’m Currently working as a Full Stack Engineer ar Candelalabs.
+🔭 I’m Currently working as a <a href="http://www.unb.br">Full Stack Engineer at Candelalabs.</a>
 
 I'am enthusiastic to explore and build applications with the latest cutting-edge technologies to deliver the best user experience.
 
