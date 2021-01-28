@@ -1,4 +1,4 @@
-### <h2 align="center">Hey, this is Manikanta, a <a href="http://www.unb.br">Web Coder</a> <img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/giphy-2.gif" width="35"></h2>
+### <h2 align="center">Hey, this is Manikanta, a <a href="#">Web Coder</a> <img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/giphy-2.gif" width="35"></h2>
 <div align="center"><img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/giphy-1.gif" alt="icon" width="300" /></div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 </div>
 
-🔭 I’m Currently working as a <a href="http://www.unb.br">Full Stack Engineer at Candelalabs.</a>
+🔭 I’m Currently working as a <a href="https://www.candelalabs.io/">Full Stack Engineer at Candelalabs.</a>
 
 I'am enthusiastic to explore and build applications with the latest cutting-edge technologies to deliver the best user experience.
 
@@ -17,7 +17,7 @@ I'am enthusiastic to explore and build applications with the latest cutting-edge
 ```javascript
 const mani = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, HTML, CSS, Bootstrap, AJAX],
+  code: [Javascript, Typescript, Node, HTML, CSS, Bootstrap, AJAX],
   framework: [AngularJS, Angular 8],
   libraries: [jQuery, RxJS],
   tools: [NPM, Yarn, Babel, Git, SVN, Jenkins(CI/CD), Docker, Gulp,Bower, SSMS, Postman, SoapUI, Sonarqube]
