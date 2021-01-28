@@ -8,9 +8,9 @@
 
 </div>
 
-🔭 I’m Currently working as a <b>Full Stack Engineer</b> at <a href="https://www.candelalabs.io/">Candelalabs.</a>
+🔭 I’m Currently working as a <b>Full Stack Engineer</b> at <a href="https://www.candelalabs.io/">Candelalabs</a>
 
-I'am enthusiastic to explore and build applications with the latest cutting-edge technologies to deliver the best user experience.
+I'am enthusiastic to explore and build applications with the latest cutting-edge technologies to deliver the best user experience
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
