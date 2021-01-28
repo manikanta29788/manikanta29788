@@ -15,11 +15,12 @@ I'am enthusiastic to explore and build applications with the latest cutting-edge
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const mani = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  code: [Javascript, Typescript, HTML, CSS, HTML, CSS, Bootstrap, AJAX],
+  framework: [AngularJS, Angular 8],
+  libraries: [jQuery, RxJS],
+  tools: [NPM, Yarn, Babel, Git, SVN, Jenkins(CI/CD), Docker, Gulp,Bower, SSMS, Postman, SoapUI, Sonarqube]
 }
 ```
 
