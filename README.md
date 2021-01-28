@@ -12,9 +12,16 @@
 
 I'am enthusiastic to explore and build applications with the latest cutting-edge technologies to deliver the best user experience.
 
-### <h4>My Skills</h4>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"]
+}
+```
 
 <!--
 **manikanta29788/manikanta29788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
