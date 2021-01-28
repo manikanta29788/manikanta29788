@@ -1,4 +1,4 @@
-### <h3 align="center">Hey, this is Manikanta, a Web Coder <img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/giphy-2.gif" width="50"></h3>
+### <h3 align="center">Hey, this is Manikanta, a Web Coder <img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/giphy-2.gif" width="35"></h3>
 <div align="center"><img src="https://github.com/manikanta29788/manikanta29788/blob/main/assets/giphy-1.gif" alt="icon" width="300" /></div>
 
 <div align="center">
