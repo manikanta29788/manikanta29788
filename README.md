@@ -17,10 +17,10 @@ I'am enthusiastic to explore and build applications with the latest cutting-edge
 ```javascript
 const mani = {
   pronouns: "he" | "him",
-  code: [Javascript, jquery, Typescript, Node, HTML, CSS, Bootstrap, AJAX],
+  code: [Javascript, jQuery, Typescript, Node, HTML, CSS, Bootstrap, AJAX],
   framework: [AngularJS, Angular 8],
   libraries: [jQuery, RxJS],
-  tools: [NPM, Yarn, Babel, Git, SVN, Jenkins(CI/CD), Docker, Gulp, Bower, SSMS, Postman, SoapUI, Sonarqube]
+  tools: [NPM, Gulp, Yarn, Babel, Git, SVN, Jenkins(CI/CD), Docker, Bower, SSMS, Postman, SoapUI, Sonarqube]
 }
 ```
 
