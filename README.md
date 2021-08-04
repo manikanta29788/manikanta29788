@@ -8,7 +8,7 @@
 
 </div>
 
-🔭 I’m Currently working as a <b>Full Stack Engineer</b> at <a href="https://www.candelalabs.io/">Candelalabs</a>
+🔭 I’m Currently working as a <b>Project Lead</b> at <a href="https://www.wipro.com/">Wipro</a>
 
 I'am enthusiastic to explore and build applications with the latest cutting-edge technologies to deliver the best user experience
 
