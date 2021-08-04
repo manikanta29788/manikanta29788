@@ -20,6 +20,7 @@ const mani = {
   code: [Javascript, Typescript, Node, HTML, CSS, Bootstrap, AJAX],
   framework: [AngularJS, Angular 8],
   libraries: [jQuery, RxJS],
+  databases: [MongoDB, MySql],
   tools: [NPM, Bower, Gulp, Yarn, Babel, Git, SVN, Jenkins(CI/CD), Docker, SSMS, Postman, SoapUI, Sonarqube]
 }
 ```
